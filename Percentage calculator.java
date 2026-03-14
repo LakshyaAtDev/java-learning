@@ -14,7 +14,7 @@ public class calculator {
         float S4=scanner.nextFloat();
         System.out.println("Enter marks in subject 5");
         float S5=scanner.nextFloat();
-        System.out.println("Now enter total marks");
+        System.out.println("Enter total marks out of-");
         float total_marks= scanner.nextFloat();
         float percentage=(S1+S2+S3+S4+S5)/total_marks*100;
         System.out.print("Your percentage is "+ percentage);
