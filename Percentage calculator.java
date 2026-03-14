@@ -1,6 +1,6 @@
-package cal.cal;
+package company;
 import java.util.Scanner;
-public class percentage {
+public class calculator {
     static void main() {
         System.out.println("To calculate your percentage");
         System.out.println("Enter marks in subject 1");
